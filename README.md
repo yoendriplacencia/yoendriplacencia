@@ -27,6 +27,8 @@
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2> 🤳 Connect with me:
+
+  
 <a href="https://www.linkedin.com/in/yoendri-placencia">Linkedin</a>
 
   
