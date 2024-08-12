@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [SIEM_Nmap Scan- Kali Linux Agent](https://github.com/yoendriplacencia/SIEM-_-NMAP-Scan_-Kali-Linux-Agent)             
-  - [SIEM_Nmap Scan- Kali Linux Agent](https://github.com/yoendriplacencia/SIEM-_-NMAP-Scan_-Kali-Linux-Agent)   
+  - [IDS_SNORT-HTTP-Traffic](https://github.com/yoendriplacencia/IDS_SNORT-HTTP-Traffic.git)   
 <h2>🎓 Certifications:</h2>
 
   - [ISC2 Certified in Cybersecurity CCsm](https://www.credly.com/badges/56a2b070-f962-4bd1-9a2d-4f2e43f88c5a/linked_in_profile)
